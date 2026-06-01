@@ -40,7 +40,8 @@ The model helps businesses and analysts understand which features drive phone pr
 | File | Description |
 |------|-------------|
 | `phone_price_prediction.ipynb` | Full ML pipeline: EDA → training → evaluation → prediction |
-| `phone_data.csv` | Dataset containing phone specifications and price labels |
+| `train.csv` | Training dataset used to build the model |
+| `test.csv` | Test dataset used for final predictions |
 
 ---
 
