@@ -1,4 +1,4 @@
-# 📱 Phone Price Prediction — Random Forest
+# 📱 Phone Price Prediction — [![View Notebook](https://img.shields.io/badge/View-Notebook-blue?logo=jupyter)](https://nbviewer.org/github/AlwafiSaab/phone-price-prediction/blob/main/phone_price_prediction.ipynb)
 
 > Predicting mobile phone price ranges using machine learning.
 > Built by **Ahmed Al-Wafi** — BI & AI Automation Analyst
